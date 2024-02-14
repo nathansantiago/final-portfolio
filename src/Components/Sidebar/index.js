@@ -43,7 +43,7 @@ const Sidebar = () => {
             <ul>
                 <li>
                     <a
-                    href="https://www.linkedin.com/in/nathansantiago/"
+                    href="https://www.linkedin.com/in/nathan-santiago/"
                     target="_blank"
                     rel="noreferrer"
                         >
