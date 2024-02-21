@@ -24,6 +24,13 @@ const Portfolio = () => {
                             idx={15}
                         />
                     </h1>
+
+                    <p>
+                        Welcome to my past completed projects.
+                        Currently I am working on two React projects.
+                        My current personal project is an an informational app about freshwater mussels.
+                        I am also working in a team of three to create an app that can help UNC students better plan their meals at the dining hall.
+                    </p>
                 </div>
 
                 <div className='gallery-cont'>
