@@ -50,11 +50,21 @@
     margin-left: 0;
     position: absolute;
     right: 0;
-    overflow: hidden;
+}
+
+.gallery-cont {
+    width: 40%;
+    height: 100%;
+    top: 0;
+    padding-top: 0;
+    margin-left: 0;
+    right: 10%;
+    position: absolute;
 }
 
 .about-page,
-.contact-page {
+.contact-page,
+.portfolio-page {
     .text-zone {
         position: absolute;
         left: 10%;
